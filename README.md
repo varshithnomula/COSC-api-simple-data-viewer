@@ -11,7 +11,7 @@ Explore the adorable world of dogs using the Dog CEO API! This simple yet deligh
 
 ## 📸 Demo
 
-![Uploading Screenshot 2025-06-28 074929.png…]()
+![Screenshot 2025-06-28 074929](https://github.com/user-attachments/assets/11180ad0-16db-47e7-a0b3-b9096e02df1a)
 
 
 ## 🛠️ Tech Stack
