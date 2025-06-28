@@ -11,8 +11,8 @@ Explore the adorable world of dogs using the Dog CEO API! This simple yet deligh
 
 ## 📸 Demo
 
-![Dog Explorer Screenshot](screenshot.png)  
-> *Replace this with your own screenshot of the app.*
+![Uploading Screenshot 2025-06-28 074929.png…]()
+
 
 ## 🛠️ Tech Stack
 
